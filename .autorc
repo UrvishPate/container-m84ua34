@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "UrvishPate",
+  "repo": "container-m84ua34",
+  "name": "UrvishPate",
+  "email": "urvish@kodezi.com",
+}
